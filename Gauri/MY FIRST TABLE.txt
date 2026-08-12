@@ -1,0 +1,12 @@
+<Doctype html>
+<HTML>
+     <HEAD>
+     <TITTLE> My first table </TITTLE>
+     </HEAD>
+<BODY>
+<TH>
+<TR>SR</TR>
+<TR>Name</TR>
+</TH>
+</BODY>
+</HTML>

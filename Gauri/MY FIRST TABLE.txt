@@ -1,12 +1,25 @@
-<Doctype html>
-<HTML>
-     <HEAD>
+<!Doctype html>
+<HTML>   
+<HEAD>
      <TITTLE> My first table </TITTLE>
-     </HEAD>
+ </HEAD>
 <BODY>
-<TH>
-<TR>SR</TR>
-<TR>Name</TR>
-</TH>
+<TABLE STYLE+"BORDER:1px solid red;">
+<TR>
+    <TH>SR</TH>
+    <TH>Name</TH>
+     <TH>mark</TH>
+</TR>
+<TR>
+    <TD>1</TD>
+    <TD>ABC</TD>
+    <TD>25</TD>
+</TR>
+<TR>
+    <TD>2</TD>
+    <TD>ZYX</TD>
+    <TD>15</TD>
+</TR>
+</TABLR>
 </BODY>
 </HTML>

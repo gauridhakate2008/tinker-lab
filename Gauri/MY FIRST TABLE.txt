@@ -1,10 +1,10 @@
-<!Doctype html>
+<!Doctypehtml>
 <HTML>   
 <HEAD>
-     <TITTLE> My first table </TITTLE>
+     <TITLE> My first table </TITLE>
  </HEAD>
 <BODY>
-<TABLE STYLE+"BORDER:1px solid red;">
+<TABLE STYLE="BORDER:1px solid red;">
 <TR>
     <TH>SR</TH>
     <TH>Name</TH>
@@ -20,6 +20,6 @@
     <TD>ZYX</TD>
     <TD>15</TD>
 </TR>
-</TABLR>
+</TABLE>
 </BODY>
 </HTML>
